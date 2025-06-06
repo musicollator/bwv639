@@ -1,0 +1,4765 @@
+[
+  {
+    "hrefs": [
+      "bwv639_main.ly:88:13:14"
+    ],
+    "on_tick": 0,
+    "off_tick": 192,
+    "pitch": 41,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:41:13:14"
+    ],
+    "on_tick": 0,
+    "off_tick": 96,
+    "pitch": 56,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:8:13:14"
+    ],
+    "on_tick": 0,
+    "off_tick": 384,
+    "pitch": 72,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:41:19:20"
+    ],
+    "on_tick": 96,
+    "off_tick": 192,
+    "pitch": 60,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:88:17:18"
+    ],
+    "on_tick": 192,
+    "off_tick": 384,
+    "pitch": 41,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:41:22:23"
+    ],
+    "on_tick": 192,
+    "off_tick": 288,
+    "pitch": 65,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:41:25:26"
+    ],
+    "on_tick": 288,
+    "off_tick": 384,
+    "pitch": 64,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:90:2:3"
+    ],
+    "on_tick": 384,
+    "off_tick": 576,
+    "pitch": 53,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:43:2:3"
+    ],
+    "on_tick": 384,
+    "off_tick": 480,
+    "pitch": 65,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:9:2:3"
+    ],
+    "on_tick": 384,
+    "off_tick": 768,
+    "pitch": 68,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:43:7:8"
+    ],
+    "on_tick": 480,
+    "off_tick": 576,
+    "pitch": 60,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:90:6:7"
+    ],
+    "on_tick": 576,
+    "off_tick": 768,
+    "pitch": 53,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:43:10:11"
+    ],
+    "on_tick": 576,
+    "off_tick": 672,
+    "pitch": 56,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:43:14:15"
+    ],
+    "on_tick": 672,
+    "off_tick": 768,
+    "pitch": 53,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:90:10:11"
+    ],
+    "on_tick": 768,
+    "off_tick": 960,
+    "pitch": 53,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:43:18:19"
+    ],
+    "on_tick": 768,
+    "off_tick": 864,
+    "pitch": 55,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:9:8:9"
+    ],
+    "on_tick": 768,
+    "off_tick": 1152,
+    "pitch": 70,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:43:20:21"
+    ],
+    "on_tick": 864,
+    "off_tick": 960,
+    "pitch": 58,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:90:14:15"
+    ],
+    "on_tick": 960,
+    "off_tick": 1152,
+    "pitch": 52,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:43:24:25"
+    ],
+    "on_tick": 960,
+    "off_tick": 1056,
+    "pitch": 61,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:43:29:30"
+    ],
+    "on_tick": 1056,
+    "off_tick": 1152,
+    "pitch": 60,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:90:19:20"
+    ],
+    "on_tick": 1152,
+    "off_tick": 1344,
+    "pitch": 53,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:43:35:36"
+    ],
+    "on_tick": 1152,
+    "off_tick": 1248,
+    "pitch": 53,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:9:14:15"
+    ],
+    "on_tick": 1152,
+    "off_tick": 1440,
+    "pitch": 68,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:43:37:38"
+    ],
+    "on_tick": 1248,
+    "off_tick": 1344,
+    "pitch": 56,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:90:23:24"
+    ],
+    "on_tick": 1344,
+    "off_tick": 1536,
+    "pitch": 53,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:43:41:42"
+    ],
+    "on_tick": 1344,
+    "off_tick": 1440,
+    "pitch": 60,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:43:44:45"
+    ],
+    "on_tick": 1440,
+    "off_tick": 1536,
+    "pitch": 58,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:9:21:22"
+    ],
+    "on_tick": 1440,
+    "off_tick": 1536,
+    "pitch": 67,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:90:27:28"
+    ],
+    "on_tick": 1536,
+    "off_tick": 1728,
+    "pitch": 53,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:43:51:52"
+    ],
+    "on_tick": 1536,
+    "off_tick": 1632,
+    "pitch": 56,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:9:26:27"
+    ],
+    "on_tick": 1536,
+    "off_tick": 1824,
+    "pitch": 65,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:43:55:56"
+    ],
+    "on_tick": 1632,
+    "off_tick": 1728,
+    "pitch": 53,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:90:29:30"
+    ],
+    "on_tick": 1728,
+    "off_tick": 1920,
+    "pitch": 51,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:43:57:58"
+    ],
+    "on_tick": 1728,
+    "off_tick": 1824,
+    "pitch": 56,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:43:61:62"
+    ],
+    "on_tick": 1824,
+    "off_tick": 1920,
+    "pitch": 60,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:9:31:32"
+    ],
+    "on_tick": 1824,
+    "off_tick": 1920,
+    "pitch": 67,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:92:2:3"
+    ],
+    "on_tick": 1920,
+    "off_tick": 2112,
+    "pitch": 49,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:45:2:3"
+    ],
+    "on_tick": 1920,
+    "off_tick": 2016,
+    "pitch": 65,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:10:2:3"
+    ],
+    "on_tick": 1920,
+    "off_tick": 2016,
+    "pitch": 68,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:45:5:6"
+    ],
+    "on_tick": 2016,
+    "off_tick": 2112,
+    "pitch": 64,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:10:9:10"
+    ],
+    "on_tick": 2016,
+    "off_tick": 2112,
+    "pitch": 70,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:92:8:9"
+    ],
+    "on_tick": 2112,
+    "off_tick": 2304,
+    "pitch": 49,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:45:8:9"
+    ],
+    "on_tick": 2112,
+    "off_tick": 2208,
+    "pitch": 65,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:10:14:15"
+    ],
+    "on_tick": 2112,
+    "off_tick": 2208,
+    "pitch": 68,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:45:11:12"
+    ],
+    "on_tick": 2208,
+    "off_tick": 2304,
+    "pitch": 68,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:10:19:20"
+    ],
+    "on_tick": 2208,
+    "off_tick": 2304,
+    "pitch": 70,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:92:14:15"
+    ],
+    "on_tick": 2304,
+    "off_tick": 2496,
+    "pitch": 49,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:45:18:19"
+    ],
+    "on_tick": 2304,
+    "off_tick": 2400,
+    "pitch": 67,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:10:24:25"
+    ],
+    "on_tick": 2304,
+    "off_tick": 2592,
+    "pitch": 70,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:45:21:22"
+    ],
+    "on_tick": 2400,
+    "off_tick": 2496,
+    "pitch": 65,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:92:20:21"
+    ],
+    "on_tick": 2496,
+    "off_tick": 2688,
+    "pitch": 49,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:45:24:25"
+    ],
+    "on_tick": 2496,
+    "off_tick": 2592,
+    "pitch": 64,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:45:27:28"
+    ],
+    "on_tick": 2592,
+    "off_tick": 2688,
+    "pitch": 65,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:10:38:39"
+    ],
+    "on_tick": 2592,
+    "off_tick": 2640,
+    "pitch": 68,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:10:45:46"
+    ],
+    "on_tick": 2640,
+    "off_tick": 2688,
+    "pitch": 70,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:92:26:27"
+    ],
+    "on_tick": 2688,
+    "off_tick": 2880,
+    "pitch": 48,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:45:32:33"
+    ],
+    "on_tick": 2688,
+    "off_tick": 2784,
+    "pitch": 64,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:10:50:51"
+    ],
+    "on_tick": 2688,
+    "off_tick": 3072,
+    "pitch": 72,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:45:36:37"
+    ],
+    "on_tick": 2784,
+    "off_tick": 2880,
+    "pitch": 60,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:92:30:31"
+    ],
+    "on_tick": 2880,
+    "off_tick": 3072,
+    "pitch": 48,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:45:39:40"
+    ],
+    "on_tick": 2880,
+    "off_tick": 2976,
+    "pitch": 55,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:45:41:42"
+    ],
+    "on_tick": 2976,
+    "off_tick": 3072,
+    "pitch": 58,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:92:34:35"
+    ],
+    "on_tick": 3072,
+    "off_tick": 3264,
+    "pitch": 53,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:45:47:48"
+    ],
+    "on_tick": 3072,
+    "off_tick": 3168,
+    "pitch": 56,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:10:55:56"
+    ],
+    "on_tick": 3072,
+    "off_tick": 3360,
+    "pitch": 72,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:45:51:52"
+    ],
+    "on_tick": 3168,
+    "off_tick": 3264,
+    "pitch": 60,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:92:36:37"
+    ],
+    "on_tick": 3264,
+    "off_tick": 3456,
+    "pitch": 53,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:45:54:55"
+    ],
+    "on_tick": 3264,
+    "off_tick": 3360,
+    "pitch": 65,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:45:57:58"
+    ],
+    "on_tick": 3360,
+    "off_tick": 3456,
+    "pitch": 68,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:10:61:62"
+    ],
+    "on_tick": 3360,
+    "off_tick": 3456,
+    "pitch": 73,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:94:2:3"
+    ],
+    "on_tick": 3456,
+    "off_tick": 3648,
+    "pitch": 60,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:47:2:3"
+    ],
+    "on_tick": 3456,
+    "off_tick": 3552,
+    "pitch": 67,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:11:2:3"
+    ],
+    "on_tick": 3456,
+    "off_tick": 3818,
+    "pitch": 75,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:47:5:6"
+    ],
+    "on_tick": 3552,
+    "off_tick": 3648,
+    "pitch": 63,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:94:7:8"
+    ],
+    "on_tick": 3648,
+    "off_tick": 3840,
+    "pitch": 60,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:47:11:12"
+    ],
+    "on_tick": 3648,
+    "off_tick": 3744,
+    "pitch": 68,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:47:16:17"
+    ],
+    "on_tick": 3744,
+    "off_tick": 3840,
+    "pitch": 67,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:11:23:24"
+    ],
+    "on_tick": 3818,
+    "off_tick": 3839,
+    "pitch": 73,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:94:12:13"
+    ],
+    "on_tick": 3840,
+    "off_tick": 4032,
+    "pitch": 60,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:47:21:22"
+    ],
+    "on_tick": 3840,
+    "off_tick": 3936,
+    "pitch": 68,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:11:31:32"
+    ],
+    "on_tick": 3840,
+    "off_tick": 4128,
+    "pitch": 72,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:47:26:27"
+    ],
+    "on_tick": 3936,
+    "off_tick": 4032,
+    "pitch": 63,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:94:17:18"
+    ],
+    "on_tick": 4032,
+    "off_tick": 4224,
+    "pitch": 60,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:47:31:32"
+    ],
+    "on_tick": 4032,
+    "off_tick": 4128,
+    "pitch": 65,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:47:34:35"
+    ],
+    "on_tick": 4128,
+    "off_tick": 4224,
+    "pitch": 66,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:11:37:38"
+    ],
+    "on_tick": 4128,
+    "off_tick": 4224,
+    "pitch": 70,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:94:22:23"
+    ],
+    "on_tick": 4224,
+    "off_tick": 4416,
+    "pitch": 60,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:47:41:42"
+    ],
+    "on_tick": 4224,
+    "off_tick": 4320,
+    "pitch": 65,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:11:44:45"
+    ],
+    "on_tick": 4224,
+    "off_tick": 4608,
+    "pitch": 68,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:47:44:45"
+    ],
+    "on_tick": 4320,
+    "off_tick": 4416,
+    "pitch": 61,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:94:27:28"
+    ],
+    "on_tick": 4416,
+    "off_tick": 4608,
+    "pitch": 60,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:47:49:50"
+    ],
+    "on_tick": 4416,
+    "off_tick": 4512,
+    "pitch": 65,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:47:52:53"
+    ],
+    "on_tick": 4512,
+    "off_tick": 4608,
+    "pitch": 68,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:94:32:33"
+    ],
+    "on_tick": 4608,
+    "off_tick": 4800,
+    "pitch": 58,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:47:59:60"
+    ],
+    "on_tick": 4608,
+    "off_tick": 4704,
+    "pitch": 67,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:11:50:51"
+    ],
+    "on_tick": 4608,
+    "off_tick": 4800,
+    "pitch": 70,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:47:62:63"
+    ],
+    "on_tick": 4704,
+    "off_tick": 4800,
+    "pitch": 61,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:94:36:37"
+    ],
+    "on_tick": 4800,
+    "off_tick": 4992,
+    "pitch": 57,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:47:67:68"
+    ],
+    "on_tick": 4800,
+    "off_tick": 4896,
+    "pitch": 60,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:11:56:57"
+    ],
+    "on_tick": 4800,
+    "off_tick": 4992,
+    "pitch": 72,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:47:70:71"
+    ],
+    "on_tick": 4896,
+    "off_tick": 4992,
+    "pitch": 66,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:96:2:3"
+    ],
+    "on_tick": 4992,
+    "off_tick": 5184,
+    "pitch": 58,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:49:2:3"
+    ],
+    "on_tick": 4992,
+    "off_tick": 5088,
+    "pitch": 65,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:12:2:3",
+      "bwv639_main.ly:12:11:12"
+    ],
+    "on_tick": 4992,
+    "off_tick": 5472,
+    "pitch": 73,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:49:5:6"
+    ],
+    "on_tick": 5088,
+    "off_tick": 5184,
+    "pitch": 58,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:96:8:9"
+    ],
+    "on_tick": 5184,
+    "off_tick": 5376,
+    "pitch": 56,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:49:9:10"
+    ],
+    "on_tick": 5184,
+    "off_tick": 5280,
+    "pitch": 61,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:49:14:15"
+    ],
+    "on_tick": 5280,
+    "off_tick": 5376,
+    "pitch": 65,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:96:15:16"
+    ],
+    "on_tick": 5376,
+    "off_tick": 5568,
+    "pitch": 55,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:49:20:21"
+    ],
+    "on_tick": 5376,
+    "off_tick": 5472,
+    "pitch": 70,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:49:25:26"
+    ],
+    "on_tick": 5472,
+    "off_tick": 5568,
+    "pitch": 68,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:12:21:22"
+    ],
+    "on_tick": 5472,
+    "off_tick": 5520,
+    "pitch": 75,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:12:29:30"
+    ],
+    "on_tick": 5520,
+    "off_tick": 5568,
+    "pitch": 77,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:96:19:20"
+    ],
+    "on_tick": 5568,
+    "off_tick": 5760,
+    "pitch": 53,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:49:30:31"
+    ],
+    "on_tick": 5568,
+    "off_tick": 5664,
+    "pitch": 67,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:12:36:37"
+    ],
+    "on_tick": 5568,
+    "off_tick": 5664,
+    "pitch": 73,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:49:33:34"
+    ],
+    "on_tick": 5664,
+    "off_tick": 5760,
+    "pitch": 68,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:12:51:52"
+    ],
+    "on_tick": 5664,
+    "off_tick": 5760,
+    "pitch": 72,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:97:2:3"
+    ],
+    "on_tick": 5760,
+    "off_tick": 5952,
+    "pitch": 52,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:50:2:3"
+    ],
+    "on_tick": 5760,
+    "off_tick": 5856,
+    "pitch": 67,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:12:59:60"
+    ],
+    "on_tick": 5760,
+    "off_tick": 6144,
+    "pitch": 72,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:50:5:6"
+    ],
+    "on_tick": 5856,
+    "off_tick": 5952,
+    "pitch": 60,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:97:7:8"
+    ],
+    "on_tick": 5952,
+    "off_tick": 6144,
+    "pitch": 48,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:50:8:9"
+    ],
+    "on_tick": 5952,
+    "off_tick": 6048,
+    "pitch": 64,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:50:11:12"
+    ],
+    "on_tick": 6048,
+    "off_tick": 6144,
+    "pitch": 58,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:97:11:12"
+    ],
+    "on_tick": 6144,
+    "off_tick": 6336,
+    "pitch": 41,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:51:2:3"
+    ],
+    "on_tick": 6144,
+    "off_tick": 6240,
+    "pitch": 56,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:12:64:65"
+    ],
+    "on_tick": 6144,
+    "off_tick": 6528,
+    "pitch": 72,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:51:8:9"
+    ],
+    "on_tick": 6240,
+    "off_tick": 6336,
+    "pitch": 60,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:97:15:16"
+    ],
+    "on_tick": 6336,
+    "off_tick": 6528,
+    "pitch": 41,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:51:11:12"
+    ],
+    "on_tick": 6336,
+    "off_tick": 6432,
+    "pitch": 65,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:51:14:15"
+    ],
+    "on_tick": 6432,
+    "off_tick": 6528,
+    "pitch": 64,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:99:2:3"
+    ],
+    "on_tick": 6528,
+    "off_tick": 6720,
+    "pitch": 53,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:53:2:3"
+    ],
+    "on_tick": 6528,
+    "off_tick": 6624,
+    "pitch": 65,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:13:2:3"
+    ],
+    "on_tick": 6528,
+    "off_tick": 6912,
+    "pitch": 68,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:53:7:8"
+    ],
+    "on_tick": 6624,
+    "off_tick": 6720,
+    "pitch": 60,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:99:6:7"
+    ],
+    "on_tick": 6720,
+    "off_tick": 6912,
+    "pitch": 53,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:53:10:11"
+    ],
+    "on_tick": 6720,
+    "off_tick": 6816,
+    "pitch": 56,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:53:14:15"
+    ],
+    "on_tick": 6816,
+    "off_tick": 6912,
+    "pitch": 53,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:99:10:11"
+    ],
+    "on_tick": 6912,
+    "off_tick": 7104,
+    "pitch": 53,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:53:18:19"
+    ],
+    "on_tick": 6912,
+    "off_tick": 7008,
+    "pitch": 55,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:13:8:9"
+    ],
+    "on_tick": 6912,
+    "off_tick": 7296,
+    "pitch": 70,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:53:20:21"
+    ],
+    "on_tick": 7008,
+    "off_tick": 7104,
+    "pitch": 58,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:99:14:15"
+    ],
+    "on_tick": 7104,
+    "off_tick": 7296,
+    "pitch": 52,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:53:24:25"
+    ],
+    "on_tick": 7104,
+    "off_tick": 7200,
+    "pitch": 61,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:53:29:30"
+    ],
+    "on_tick": 7200,
+    "off_tick": 7296,
+    "pitch": 60,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:99:19:20"
+    ],
+    "on_tick": 7296,
+    "off_tick": 7488,
+    "pitch": 53,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:53:35:36"
+    ],
+    "on_tick": 7296,
+    "off_tick": 7392,
+    "pitch": 53,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:13:14:15"
+    ],
+    "on_tick": 7296,
+    "off_tick": 7584,
+    "pitch": 68,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:53:37:38"
+    ],
+    "on_tick": 7392,
+    "off_tick": 7488,
+    "pitch": 56,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:99:23:24"
+    ],
+    "on_tick": 7488,
+    "off_tick": 7680,
+    "pitch": 53,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:53:41:42"
+    ],
+    "on_tick": 7488,
+    "off_tick": 7584,
+    "pitch": 60,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:53:44:45"
+    ],
+    "on_tick": 7584,
+    "off_tick": 7680,
+    "pitch": 58,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:13:21:22"
+    ],
+    "on_tick": 7584,
+    "off_tick": 7680,
+    "pitch": 67,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:99:27:28"
+    ],
+    "on_tick": 7680,
+    "off_tick": 7872,
+    "pitch": 53,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:53:51:52"
+    ],
+    "on_tick": 7680,
+    "off_tick": 7776,
+    "pitch": 56,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:13:26:27"
+    ],
+    "on_tick": 7680,
+    "off_tick": 7968,
+    "pitch": 65,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:53:55:56"
+    ],
+    "on_tick": 7776,
+    "off_tick": 7872,
+    "pitch": 53,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:99:29:30"
+    ],
+    "on_tick": 7872,
+    "off_tick": 8064,
+    "pitch": 51,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:53:57:58"
+    ],
+    "on_tick": 7872,
+    "off_tick": 7968,
+    "pitch": 56,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:53:61:62"
+    ],
+    "on_tick": 7968,
+    "off_tick": 8064,
+    "pitch": 60,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:13:31:32"
+    ],
+    "on_tick": 7968,
+    "off_tick": 8064,
+    "pitch": 67,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:101:2:3"
+    ],
+    "on_tick": 8064,
+    "off_tick": 8256,
+    "pitch": 49,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:55:2:3"
+    ],
+    "on_tick": 8064,
+    "off_tick": 8160,
+    "pitch": 65,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:14:2:3"
+    ],
+    "on_tick": 8064,
+    "off_tick": 8160,
+    "pitch": 68,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:55:5:6"
+    ],
+    "on_tick": 8160,
+    "off_tick": 8256,
+    "pitch": 64,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:14:9:10"
+    ],
+    "on_tick": 8160,
+    "off_tick": 8256,
+    "pitch": 70,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:101:8:9"
+    ],
+    "on_tick": 8256,
+    "off_tick": 8448,
+    "pitch": 49,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:55:8:9"
+    ],
+    "on_tick": 8256,
+    "off_tick": 8352,
+    "pitch": 65,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:14:14:15"
+    ],
+    "on_tick": 8256,
+    "off_tick": 8352,
+    "pitch": 68,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:55:11:12"
+    ],
+    "on_tick": 8352,
+    "off_tick": 8448,
+    "pitch": 68,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:14:19:20"
+    ],
+    "on_tick": 8352,
+    "off_tick": 8448,
+    "pitch": 70,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:101:14:15"
+    ],
+    "on_tick": 8448,
+    "off_tick": 8640,
+    "pitch": 49,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:55:18:19"
+    ],
+    "on_tick": 8448,
+    "off_tick": 8544,
+    "pitch": 67,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:14:24:25"
+    ],
+    "on_tick": 8448,
+    "off_tick": 8736,
+    "pitch": 70,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:55:21:22"
+    ],
+    "on_tick": 8544,
+    "off_tick": 8640,
+    "pitch": 65,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:101:20:21"
+    ],
+    "on_tick": 8640,
+    "off_tick": 8832,
+    "pitch": 49,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:55:24:25"
+    ],
+    "on_tick": 8640,
+    "off_tick": 8736,
+    "pitch": 64,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:55:27:28"
+    ],
+    "on_tick": 8736,
+    "off_tick": 8832,
+    "pitch": 65,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:14:38:39"
+    ],
+    "on_tick": 8736,
+    "off_tick": 8784,
+    "pitch": 68,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:14:45:46"
+    ],
+    "on_tick": 8784,
+    "off_tick": 8832,
+    "pitch": 70,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:101:26:27"
+    ],
+    "on_tick": 8832,
+    "off_tick": 9024,
+    "pitch": 48,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:55:32:33"
+    ],
+    "on_tick": 8832,
+    "off_tick": 8928,
+    "pitch": 64,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:14:50:51"
+    ],
+    "on_tick": 8832,
+    "off_tick": 9216,
+    "pitch": 72,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:55:36:37"
+    ],
+    "on_tick": 8928,
+    "off_tick": 9024,
+    "pitch": 60,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:101:30:31"
+    ],
+    "on_tick": 9024,
+    "off_tick": 9216,
+    "pitch": 48,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:55:39:40"
+    ],
+    "on_tick": 9024,
+    "off_tick": 9120,
+    "pitch": 55,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:55:41:42"
+    ],
+    "on_tick": 9120,
+    "off_tick": 9216,
+    "pitch": 58,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:101:34:35"
+    ],
+    "on_tick": 9216,
+    "off_tick": 9408,
+    "pitch": 53,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:55:47:48"
+    ],
+    "on_tick": 9216,
+    "off_tick": 9312,
+    "pitch": 56,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:14:55:56"
+    ],
+    "on_tick": 9216,
+    "off_tick": 9504,
+    "pitch": 72,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:55:51:52"
+    ],
+    "on_tick": 9312,
+    "off_tick": 9408,
+    "pitch": 60,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:101:36:37"
+    ],
+    "on_tick": 9408,
+    "off_tick": 9600,
+    "pitch": 53,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:55:54:55"
+    ],
+    "on_tick": 9408,
+    "off_tick": 9504,
+    "pitch": 65,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:55:57:58"
+    ],
+    "on_tick": 9504,
+    "off_tick": 9600,
+    "pitch": 68,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:14:61:62"
+    ],
+    "on_tick": 9504,
+    "off_tick": 9600,
+    "pitch": 73,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:103:2:3"
+    ],
+    "on_tick": 9600,
+    "off_tick": 9792,
+    "pitch": 60,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:57:2:3"
+    ],
+    "on_tick": 9600,
+    "off_tick": 9696,
+    "pitch": 67,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:15:2:3"
+    ],
+    "on_tick": 9600,
+    "off_tick": 9962,
+    "pitch": 75,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:57:5:6"
+    ],
+    "on_tick": 9696,
+    "off_tick": 9792,
+    "pitch": 63,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:103:7:8"
+    ],
+    "on_tick": 9792,
+    "off_tick": 9984,
+    "pitch": 60,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:57:11:12"
+    ],
+    "on_tick": 9792,
+    "off_tick": 9888,
+    "pitch": 68,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:57:16:17"
+    ],
+    "on_tick": 9888,
+    "off_tick": 9984,
+    "pitch": 67,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:15:23:24"
+    ],
+    "on_tick": 9962,
+    "off_tick": 9983,
+    "pitch": 73,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:103:12:13"
+    ],
+    "on_tick": 9984,
+    "off_tick": 10176,
+    "pitch": 60,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:57:21:22"
+    ],
+    "on_tick": 9984,
+    "off_tick": 10080,
+    "pitch": 68,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:15:31:32"
+    ],
+    "on_tick": 9984,
+    "off_tick": 10272,
+    "pitch": 72,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:57:26:27"
+    ],
+    "on_tick": 10080,
+    "off_tick": 10176,
+    "pitch": 63,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:103:17:18"
+    ],
+    "on_tick": 10176,
+    "off_tick": 10368,
+    "pitch": 60,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:57:31:32"
+    ],
+    "on_tick": 10176,
+    "off_tick": 10272,
+    "pitch": 65,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:57:34:35"
+    ],
+    "on_tick": 10272,
+    "off_tick": 10368,
+    "pitch": 66,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:15:37:38"
+    ],
+    "on_tick": 10272,
+    "off_tick": 10368,
+    "pitch": 70,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:103:22:23"
+    ],
+    "on_tick": 10368,
+    "off_tick": 10560,
+    "pitch": 60,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:57:41:42"
+    ],
+    "on_tick": 10368,
+    "off_tick": 10464,
+    "pitch": 65,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:15:44:45"
+    ],
+    "on_tick": 10368,
+    "off_tick": 10752,
+    "pitch": 68,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:57:44:45"
+    ],
+    "on_tick": 10464,
+    "off_tick": 10560,
+    "pitch": 61,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:103:27:28"
+    ],
+    "on_tick": 10560,
+    "off_tick": 10752,
+    "pitch": 60,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:57:49:50"
+    ],
+    "on_tick": 10560,
+    "off_tick": 10656,
+    "pitch": 65,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:57:52:53"
+    ],
+    "on_tick": 10656,
+    "off_tick": 10752,
+    "pitch": 68,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:103:32:33"
+    ],
+    "on_tick": 10752,
+    "off_tick": 10944,
+    "pitch": 58,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:57:59:60"
+    ],
+    "on_tick": 10752,
+    "off_tick": 10848,
+    "pitch": 67,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:15:50:51"
+    ],
+    "on_tick": 10752,
+    "off_tick": 10944,
+    "pitch": 70,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:57:62:63"
+    ],
+    "on_tick": 10848,
+    "off_tick": 10944,
+    "pitch": 61,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:103:36:37"
+    ],
+    "on_tick": 10944,
+    "off_tick": 11136,
+    "pitch": 57,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:57:67:68"
+    ],
+    "on_tick": 10944,
+    "off_tick": 11040,
+    "pitch": 60,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:15:56:57"
+    ],
+    "on_tick": 10944,
+    "off_tick": 11136,
+    "pitch": 72,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:57:70:71"
+    ],
+    "on_tick": 11040,
+    "off_tick": 11136,
+    "pitch": 66,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:105:2:3"
+    ],
+    "on_tick": 11136,
+    "off_tick": 11328,
+    "pitch": 58,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:59:2:3"
+    ],
+    "on_tick": 11136,
+    "off_tick": 11232,
+    "pitch": 65,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:16:2:3",
+      "bwv639_main.ly:16:11:12"
+    ],
+    "on_tick": 11136,
+    "off_tick": 11616,
+    "pitch": 73,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:59:5:6"
+    ],
+    "on_tick": 11232,
+    "off_tick": 11328,
+    "pitch": 58,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:105:8:9"
+    ],
+    "on_tick": 11328,
+    "off_tick": 11520,
+    "pitch": 56,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:59:9:10"
+    ],
+    "on_tick": 11328,
+    "off_tick": 11424,
+    "pitch": 61,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:59:14:15"
+    ],
+    "on_tick": 11424,
+    "off_tick": 11520,
+    "pitch": 65,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:105:15:16"
+    ],
+    "on_tick": 11520,
+    "off_tick": 11712,
+    "pitch": 55,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:59:20:21"
+    ],
+    "on_tick": 11520,
+    "off_tick": 11616,
+    "pitch": 70,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:59:25:26"
+    ],
+    "on_tick": 11616,
+    "off_tick": 11712,
+    "pitch": 68,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:16:21:22"
+    ],
+    "on_tick": 11616,
+    "off_tick": 11664,
+    "pitch": 75,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:16:29:30"
+    ],
+    "on_tick": 11664,
+    "off_tick": 11712,
+    "pitch": 77,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:105:19:20"
+    ],
+    "on_tick": 11712,
+    "off_tick": 11904,
+    "pitch": 53,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:59:30:31"
+    ],
+    "on_tick": 11712,
+    "off_tick": 11808,
+    "pitch": 67,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:16:36:37"
+    ],
+    "on_tick": 11712,
+    "off_tick": 11808,
+    "pitch": 73,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:59:33:34"
+    ],
+    "on_tick": 11808,
+    "off_tick": 11904,
+    "pitch": 68,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:16:51:52"
+    ],
+    "on_tick": 11808,
+    "off_tick": 11904,
+    "pitch": 72,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:106:2:3"
+    ],
+    "on_tick": 11904,
+    "off_tick": 12096,
+    "pitch": 52,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:60:2:3"
+    ],
+    "on_tick": 11904,
+    "off_tick": 12000,
+    "pitch": 67,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:16:59:60"
+    ],
+    "on_tick": 11904,
+    "off_tick": 12288,
+    "pitch": 72,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:60:5:6"
+    ],
+    "on_tick": 12000,
+    "off_tick": 12096,
+    "pitch": 58,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:106:7:8"
+    ],
+    "on_tick": 12096,
+    "off_tick": 12288,
+    "pitch": 53,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:60:9:10"
+    ],
+    "on_tick": 12096,
+    "off_tick": 12192,
+    "pitch": 56,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:60:13:14"
+    ],
+    "on_tick": 12192,
+    "off_tick": 12288,
+    "pitch": 65,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:106:11:12"
+    ],
+    "on_tick": 12288,
+    "off_tick": 12480,
+    "pitch": 48,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:60:18:19"
+    ],
+    "on_tick": 12288,
+    "off_tick": 12384,
+    "pitch": 55,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:16:64:65"
+    ],
+    "on_tick": 12288,
+    "off_tick": 12672,
+    "pitch": 75,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:60:20:21"
+    ],
+    "on_tick": 12384,
+    "off_tick": 12480,
+    "pitch": 61,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:106:13:14"
+    ],
+    "on_tick": 12480,
+    "off_tick": 12672,
+    "pitch": 48,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:60:25:26"
+    ],
+    "on_tick": 12480,
+    "off_tick": 12576,
+    "pitch": 56,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:60:29:30"
+    ],
+    "on_tick": 12576,
+    "off_tick": 12672,
+    "pitch": 60,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:107:2:3"
+    ],
+    "on_tick": 12672,
+    "off_tick": 12864,
+    "pitch": 49,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:62:2:3"
+    ],
+    "on_tick": 12672,
+    "off_tick": 12768,
+    "pitch": 56,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:17:2:3"
+    ],
+    "on_tick": 12672,
+    "off_tick": 13056,
+    "pitch": 77,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:62:6:7"
+    ],
+    "on_tick": 12768,
+    "off_tick": 12864,
+    "pitch": 60,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:107:8:9"
+    ],
+    "on_tick": 12864,
+    "off_tick": 13056,
+    "pitch": 49,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:62:9:10"
+    ],
+    "on_tick": 12864,
+    "off_tick": 12960,
+    "pitch": 58,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:62:13:14"
+    ],
+    "on_tick": 12960,
+    "off_tick": 13056,
+    "pitch": 61,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:107:14:15"
+    ],
+    "on_tick": 13056,
+    "off_tick": 13248,
+    "pitch": 51,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:62:20:21"
+    ],
+    "on_tick": 13056,
+    "off_tick": 13152,
+    "pitch": 58,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:17:7:8"
+    ],
+    "on_tick": 13056,
+    "off_tick": 13248,
+    "pitch": 75,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:62:24:25"
+    ],
+    "on_tick": 13152,
+    "off_tick": 13248,
+    "pitch": 61,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:107:20:21"
+    ],
+    "on_tick": 13248,
+    "off_tick": 13440,
+    "pitch": 51,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:62:29:30"
+    ],
+    "on_tick": 13248,
+    "off_tick": 13344,
+    "pitch": 68,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:17:16:17"
+    ],
+    "on_tick": 13248,
+    "off_tick": 13296,
+    "pitch": 73,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:17:31:32"
+    ],
+    "on_tick": 13296,
+    "off_tick": 13344,
+    "pitch": 72,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:62:34:35"
+    ],
+    "on_tick": 13344,
+    "off_tick": 13440,
+    "pitch": 67,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:17:35:36"
+    ],
+    "on_tick": 13344,
+    "off_tick": 13440,
+    "pitch": 73,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:107:26:27"
+    ],
+    "on_tick": 13440,
+    "off_tick": 13632,
+    "pitch": 56,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:62:39:40"
+    ],
+    "on_tick": 13440,
+    "off_tick": 13536,
+    "pitch": 68,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:17:45:46"
+    ],
+    "on_tick": 13440,
+    "off_tick": 13632,
+    "pitch": 72,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:62:46:47"
+    ],
+    "on_tick": 13536,
+    "off_tick": 13632,
+    "pitch": 63,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:107:32:33"
+    ],
+    "on_tick": 13632,
+    "off_tick": 13824,
+    "pitch": 51,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:62:51:52"
+    ],
+    "on_tick": 13632,
+    "off_tick": 13728,
+    "pitch": 61,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:17:50:51"
+    ],
+    "on_tick": 13632,
+    "off_tick": 13824,
+    "pitch": 70,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:62:56:57"
+    ],
+    "on_tick": 13728,
+    "off_tick": 13824,
+    "pitch": 67,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:107:38:39"
+    ],
+    "on_tick": 13824,
+    "off_tick": 14016,
+    "pitch": 53,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:62:61:62"
+    ],
+    "on_tick": 13824,
+    "off_tick": 13920,
+    "pitch": 60,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:17:55:56"
+    ],
+    "on_tick": 13824,
+    "off_tick": 14016,
+    "pitch": 68,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:62:64:65"
+    ],
+    "on_tick": 13920,
+    "off_tick": 14016,
+    "pitch": 65,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:107:40:41"
+    ],
+    "on_tick": 14016,
+    "off_tick": 14208,
+    "pitch": 49,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:62:67:68"
+    ],
+    "on_tick": 14016,
+    "off_tick": 14112,
+    "pitch": 68,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:17:60:61"
+    ],
+    "on_tick": 14016,
+    "off_tick": 14208,
+    "pitch": 70,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:62:72:73"
+    ],
+    "on_tick": 14112,
+    "off_tick": 14208,
+    "pitch": 67,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:109:2:3"
+    ],
+    "on_tick": 14208,
+    "off_tick": 14400,
+    "pitch": 51,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:64:2:3"
+    ],
+    "on_tick": 14208,
+    "off_tick": 14304,
+    "pitch": 68,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:19:2:3"
+    ],
+    "on_tick": 14208,
+    "off_tick": 14592,
+    "pitch": 72,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:64:7:8"
+    ],
+    "on_tick": 14304,
+    "off_tick": 14400,
+    "pitch": 63,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:109:8:9"
+    ],
+    "on_tick": 14400,
+    "off_tick": 14592,
+    "pitch": 48,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:64:12:13"
+    ],
+    "on_tick": 14400,
+    "off_tick": 14496,
+    "pitch": 56,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:64:16:17"
+    ],
+    "on_tick": 14496,
+    "off_tick": 14592,
+    "pitch": 66,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:109:12:13"
+    ],
+    "on_tick": 14592,
+    "off_tick": 14784,
+    "pitch": 49,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:64:23:24"
+    ],
+    "on_tick": 14592,
+    "off_tick": 14688,
+    "pitch": 65,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:19:7:8"
+    ],
+    "on_tick": 14592,
+    "off_tick": 14976,
+    "pitch": 70,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:64:26:27"
+    ],
+    "on_tick": 14688,
+    "off_tick": 14784,
+    "pitch": 56,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:109:18:19"
+    ],
+    "on_tick": 14784,
+    "off_tick": 14976,
+    "pitch": 51,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:64:30:31"
+    ],
+    "on_tick": 14784,
+    "off_tick": 14880,
+    "pitch": 55,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:64:33:34"
+    ],
+    "on_tick": 14880,
+    "off_tick": 14976,
+    "pitch": 61,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:109:24:25"
+    ],
+    "on_tick": 14976,
+    "off_tick": 15168,
+    "pitch": 44,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:64:40:41"
+    ],
+    "on_tick": 14976,
+    "off_tick": 15072,
+    "pitch": 60,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:19:12:13"
+    ],
+    "on_tick": 14976,
+    "off_tick": 15360,
+    "pitch": 68,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:64:43:44"
+    ],
+    "on_tick": 15072,
+    "off_tick": 15168,
+    "pitch": 56,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:109:31:32"
+    ],
+    "on_tick": 15168,
+    "off_tick": 15360,
+    "pitch": 44,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:64:47:48"
+    ],
+    "on_tick": 15168,
+    "off_tick": 15264,
+    "pitch": 60,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:64:50:51"
+    ],
+    "on_tick": 15264,
+    "off_tick": 15360,
+    "pitch": 63,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:109:38:39"
+    ],
+    "on_tick": 15360,
+    "off_tick": 15552,
+    "pitch": 40,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:64:58:59"
+    ],
+    "on_tick": 15360,
+    "off_tick": 15456,
+    "pitch": 67,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:19:17:18"
+    ],
+    "on_tick": 15360,
+    "off_tick": 15744,
+    "pitch": 72,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:64:62:63"
+    ],
+    "on_tick": 15456,
+    "off_tick": 15552,
+    "pitch": 60,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:109:42:43"
+    ],
+    "on_tick": 15552,
+    "off_tick": 15744,
+    "pitch": 40,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:64:65:66"
+    ],
+    "on_tick": 15552,
+    "off_tick": 15648,
+    "pitch": 58,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:64:69:70"
+    ],
+    "on_tick": 15648,
+    "off_tick": 15744,
+    "pitch": 67,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:111:2:3"
+    ],
+    "on_tick": 15744,
+    "off_tick": 15936,
+    "pitch": 41,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:66:2:3"
+    ],
+    "on_tick": 15744,
+    "off_tick": 15840,
+    "pitch": 57,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:21:2:3"
+    ],
+    "on_tick": 15744,
+    "off_tick": 16128,
+    "pitch": 72,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:66:4:5"
+    ],
+    "on_tick": 15840,
+    "off_tick": 15936,
+    "pitch": 60,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:111:7:8"
+    ],
+    "on_tick": 15936,
+    "off_tick": 16128,
+    "pitch": 41,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:66:7:8"
+    ],
+    "on_tick": 15936,
+    "off_tick": 16032,
+    "pitch": 65,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:66:10:11"
+    ],
+    "on_tick": 16032,
+    "off_tick": 16128,
+    "pitch": 67,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:111:12:13"
+    ],
+    "on_tick": 16128,
+    "off_tick": 16320,
+    "pitch": 53,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:66:16:17"
+    ],
+    "on_tick": 16128,
+    "off_tick": 16224,
+    "pitch": 69,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:21:6:7"
+    ],
+    "on_tick": 16128,
+    "off_tick": 16512,
+    "pitch": 72,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:66:20:21"
+    ],
+    "on_tick": 16224,
+    "off_tick": 16320,
+    "pitch": 65,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:111:16:17"
+    ],
+    "on_tick": 16320,
+    "off_tick": 16512,
+    "pitch": 53,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:66:23:24"
+    ],
+    "on_tick": 16320,
+    "off_tick": 16416,
+    "pitch": 63,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:66:28:29"
+    ],
+    "on_tick": 16416,
+    "off_tick": 16512,
+    "pitch": 69,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:111:20:21"
+    ],
+    "on_tick": 16512,
+    "off_tick": 16704,
+    "pitch": 53,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:66:33:34"
+    ],
+    "on_tick": 16512,
+    "off_tick": 16608,
+    "pitch": 61,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:21:10:11"
+    ],
+    "on_tick": 16512,
+    "off_tick": 16896,
+    "pitch": 70,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:66:38:39"
+    ],
+    "on_tick": 16608,
+    "off_tick": 16704,
+    "pitch": 67,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:111:24:25"
+    ],
+    "on_tick": 16704,
+    "off_tick": 16896,
+    "pitch": 52,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:66:41:42"
+    ],
+    "on_tick": 16704,
+    "off_tick": 16800,
+    "pitch": 68,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:66:46:47"
+    ],
+    "on_tick": 16800,
+    "off_tick": 16896,
+    "pitch": 67,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:111:29:30"
+    ],
+    "on_tick": 16896,
+    "off_tick": 17088,
+    "pitch": 53,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:66:51:52"
+    ],
+    "on_tick": 16896,
+    "off_tick": 16992,
+    "pitch": 60,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:21:15:16"
+    ],
+    "on_tick": 16896,
+    "off_tick": 17280,
+    "pitch": 68,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:66:54:55"
+    ],
+    "on_tick": 16992,
+    "off_tick": 17088,
+    "pitch": 65,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:111:31:32"
+    ],
+    "on_tick": 17088,
+    "off_tick": 17280,
+    "pitch": 49,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:66:57:58"
+    ],
+    "on_tick": 17088,
+    "off_tick": 17184,
+    "pitch": 67,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:66:60:61"
+    ],
+    "on_tick": 17184,
+    "off_tick": 17280,
+    "pitch": 65,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:113:2:3"
+    ],
+    "on_tick": 17280,
+    "off_tick": 17472,
+    "pitch": 46,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:68:2:3"
+    ],
+    "on_tick": 17280,
+    "off_tick": 17376,
+    "pitch": 61,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:23:2:3"
+    ],
+    "on_tick": 17280,
+    "off_tick": 17568,
+    "pitch": 67,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:68:7:8"
+    ],
+    "on_tick": 17376,
+    "off_tick": 17472,
+    "pitch": 65,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:113:9:10"
+    ],
+    "on_tick": 17472,
+    "off_tick": 17664,
+    "pitch": 43,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:68:10:11"
+    ],
+    "on_tick": 17472,
+    "off_tick": 18048,
+    "pitch": 67,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:68:13:14"
+    ],
+    "on_tick": 17568,
+    "off_tick": 17664,
+    "pitch": 65,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:113:14:15"
+    ],
+    "on_tick": 17664,
+    "off_tick": 17856,
+    "pitch": 48,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:68:20:21"
+    ],
+    "on_tick": 17664,
+    "off_tick": 17760,
+    "pitch": 64,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:68:23:24"
+    ],
+    "on_tick": 17760,
+    "off_tick": 17856,
+    "pitch": 58,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:113:18:19"
+    ],
+    "on_tick": 17856,
+    "off_tick": 18048,
+    "pitch": 48,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:68:27:28"
+    ],
+    "on_tick": 17856,
+    "off_tick": 17952,
+    "pitch": 61,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:68:32:33"
+    ],
+    "on_tick": 17952,
+    "off_tick": 18048,
+    "pitch": 60,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:113:22:23"
+    ],
+    "on_tick": 18048,
+    "off_tick": 18240,
+    "pitch": 49,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:68:38:39"
+    ],
+    "on_tick": 18048,
+    "off_tick": 18144,
+    "pitch": 56,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:23:7:8"
+    ],
+    "on_tick": 18048,
+    "off_tick": 18336,
+    "pitch": 65,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:68:42:43"
+    ],
+    "on_tick": 18144,
+    "off_tick": 18240,
+    "pitch": 60,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:113:29:30"
+    ],
+    "on_tick": 18240,
+    "off_tick": 18432,
+    "pitch": 49,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:68:45:46"
+    ],
+    "on_tick": 18240,
+    "off_tick": 18528,
+    "pitch": 65,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:68:48:49"
+    ],
+    "on_tick": 18336,
+    "off_tick": 18432,
+    "pitch": 64,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:113:35:36"
+    ],
+    "on_tick": 18432,
+    "off_tick": 18624,
+    "pitch": 49,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:68:55:56"
+    ],
+    "on_tick": 18432,
+    "off_tick": 18816,
+    "pitch": 65,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:68:58:59"
+    ],
+    "on_tick": 18528,
+    "off_tick": 18624,
+    "pitch": 60,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:113:41:42"
+    ],
+    "on_tick": 18624,
+    "off_tick": 18816,
+    "pitch": 49,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:68:61:62"
+    ],
+    "on_tick": 18624,
+    "off_tick": 18720,
+    "pitch": 56,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:68:65:66"
+    ],
+    "on_tick": 18720,
+    "off_tick": 18816,
+    "pitch": 53,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:115:2:3"
+    ],
+    "on_tick": 18816,
+    "off_tick": 19008,
+    "pitch": 50,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:70:2:3"
+    ],
+    "on_tick": 18816,
+    "off_tick": 18912,
+    "pitch": 58,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:25:2:3"
+    ],
+    "on_tick": 18816,
+    "off_tick": 19200,
+    "pitch": 68,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:70:6:7"
+    ],
+    "on_tick": 18912,
+    "off_tick": 19008,
+    "pitch": 65,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:115:7:8"
+    ],
+    "on_tick": 19008,
+    "off_tick": 19200,
+    "pitch": 50,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:70:9:10"
+    ],
+    "on_tick": 19008,
+    "off_tick": 19104,
+    "pitch": 67,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:70:12:13"
+    ],
+    "on_tick": 19104,
+    "off_tick": 19200,
+    "pitch": 65,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:115:11:12"
+    ],
+    "on_tick": 19200,
+    "off_tick": 19392,
+    "pitch": 51,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:70:17:18"
+    ],
+    "on_tick": 19200,
+    "off_tick": 19296,
+    "pitch": 58,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:25:8:9"
+    ],
+    "on_tick": 19200,
+    "off_tick": 19584,
+    "pitch": 67,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:70:21:22"
+    ],
+    "on_tick": 19296,
+    "off_tick": 19392,
+    "pitch": 63,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:115:17:18"
+    ],
+    "on_tick": 19392,
+    "off_tick": 19584,
+    "pitch": 51,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:70:26:27"
+    ],
+    "on_tick": 19392,
+    "off_tick": 19488,
+    "pitch": 65,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:70:29:30"
+    ],
+    "on_tick": 19488,
+    "off_tick": 19584,
+    "pitch": 63,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:115:23:24"
+    ],
+    "on_tick": 19584,
+    "off_tick": 19776,
+    "pitch": 45,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:70:37:38"
+    ],
+    "on_tick": 19584,
+    "off_tick": 19680,
+    "pitch": 60,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:25:11:12"
+    ],
+    "on_tick": 19584,
+    "off_tick": 19872,
+    "pitch": 65,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:70:40:41"
+    ],
+    "on_tick": 19680,
+    "off_tick": 19776,
+    "pitch": 63,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:115:29:30"
+    ],
+    "on_tick": 19776,
+    "off_tick": 19968,
+    "pitch": 45,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:70:45:46"
+    ],
+    "on_tick": 19776,
+    "off_tick": 20352,
+    "pitch": 65,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:70:48:49"
+    ],
+    "on_tick": 19872,
+    "off_tick": 19968,
+    "pitch": 63,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:115:34:35"
+    ],
+    "on_tick": 19968,
+    "off_tick": 20160,
+    "pitch": 47,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:70:56:57"
+    ],
+    "on_tick": 19968,
+    "off_tick": 20064,
+    "pitch": 62,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:70:59:60"
+    ],
+    "on_tick": 20064,
+    "off_tick": 20160,
+    "pitch": 55,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:115:39:40"
+    ],
+    "on_tick": 20160,
+    "off_tick": 20352,
+    "pitch": 47,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:70:61:62"
+    ],
+    "on_tick": 20160,
+    "off_tick": 20256,
+    "pitch": 59,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:70:63:64"
+    ],
+    "on_tick": 20256,
+    "off_tick": 20352,
+    "pitch": 62,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:117:2:3"
+    ],
+    "on_tick": 20352,
+    "off_tick": 20544,
+    "pitch": 48,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:72:2:3"
+    ],
+    "on_tick": 20352,
+    "off_tick": 20448,
+    "pitch": 55,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:27:2:3"
+    ],
+    "on_tick": 20352,
+    "off_tick": 20640,
+    "pitch": 63,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:72:4:5"
+    ],
+    "on_tick": 20448,
+    "off_tick": 20544,
+    "pitch": 60,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:117:6:7"
+    ],
+    "on_tick": 20544,
+    "off_tick": 20736,
+    "pitch": 48,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:72:7:8"
+    ],
+    "on_tick": 20544,
+    "off_tick": 21504,
+    "pitch": 63,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:72:12:13"
+    ],
+    "on_tick": 20640,
+    "off_tick": 20736,
+    "pitch": 61,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:117:10:11"
+    ],
+    "on_tick": 20736,
+    "off_tick": 20928,
+    "pitch": 46,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:72:20:21"
+    ],
+    "on_tick": 20736,
+    "off_tick": 20832,
+    "pitch": 55,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:72:22:23"
+    ],
+    "on_tick": 20832,
+    "off_tick": 20928,
+    "pitch": 58,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:117:18:19"
+    ],
+    "on_tick": 20928,
+    "off_tick": 21120,
+    "pitch": 46,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:72:26:27"
+    ],
+    "on_tick": 20928,
+    "off_tick": 21024,
+    "pitch": 61,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:72:31:32"
+    ],
+    "on_tick": 21024,
+    "off_tick": 21120,
+    "pitch": 60,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:117:25:26"
+    ],
+    "on_tick": 21120,
+    "off_tick": 21312,
+    "pitch": 44,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:72:36:37"
+    ],
+    "on_tick": 21120,
+    "off_tick": 21216,
+    "pitch": 51,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:72:40:41"
+    ],
+    "on_tick": 21216,
+    "off_tick": 21312,
+    "pitch": 56,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:117:32:33"
+    ],
+    "on_tick": 21312,
+    "off_tick": 21504,
+    "pitch": 44,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:72:44:45"
+    ],
+    "on_tick": 21312,
+    "off_tick": 21408,
+    "pitch": 60,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:72:47:48"
+    ],
+    "on_tick": 21408,
+    "off_tick": 21504,
+    "pitch": 58,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:117:39:40"
+    ],
+    "on_tick": 21504,
+    "off_tick": 21696,
+    "pitch": 43,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:72:54:55"
+    ],
+    "on_tick": 21504,
+    "off_tick": 21600,
+    "pitch": 61,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:27:9:10"
+    ],
+    "on_tick": 21504,
+    "off_tick": 21888,
+    "pitch": 63,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:72:59:60"
+    ],
+    "on_tick": 21600,
+    "off_tick": 21696,
+    "pitch": 58,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:117:44:45"
+    ],
+    "on_tick": 21696,
+    "off_tick": 21888,
+    "pitch": 43,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:72:63:64"
+    ],
+    "on_tick": 21696,
+    "off_tick": 21792,
+    "pitch": 51,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:72:67:68"
+    ],
+    "on_tick": 21792,
+    "off_tick": 21888,
+    "pitch": 61,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:119:2:3"
+    ],
+    "on_tick": 21888,
+    "off_tick": 22080,
+    "pitch": 41,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:74:2:3"
+    ],
+    "on_tick": 21888,
+    "off_tick": 21984,
+    "pitch": 53,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:29:2:3"
+    ],
+    "on_tick": 21888,
+    "off_tick": 22272,
+    "pitch": 68,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:74:4:5"
+    ],
+    "on_tick": 21984,
+    "off_tick": 22080,
+    "pitch": 56,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:119:8:9"
+    ],
+    "on_tick": 22080,
+    "off_tick": 22272,
+    "pitch": 41,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:74:8:9"
+    ],
+    "on_tick": 22080,
+    "off_tick": 22176,
+    "pitch": 61,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:74:13:14"
+    ],
+    "on_tick": 22176,
+    "off_tick": 22272,
+    "pitch": 60,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:119:13:14"
+    ],
+    "on_tick": 22272,
+    "off_tick": 22464,
+    "pitch": 39,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:74:19:20"
+    ],
+    "on_tick": 22272,
+    "off_tick": 22368,
+    "pitch": 53,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:29:7:8"
+    ],
+    "on_tick": 22272,
+    "off_tick": 22656,
+    "pitch": 68,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:74:21:22"
+    ],
+    "on_tick": 22368,
+    "off_tick": 22464,
+    "pitch": 56,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:119:20:21"
+    ],
+    "on_tick": 22464,
+    "off_tick": 22656,
+    "pitch": 39,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:74:25:26"
+    ],
+    "on_tick": 22464,
+    "off_tick": 22560,
+    "pitch": 60,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:74:28:29"
+    ],
+    "on_tick": 22560,
+    "off_tick": 22656,
+    "pitch": 58,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:119:27:28"
+    ],
+    "on_tick": 22656,
+    "off_tick": 22848,
+    "pitch": 38,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:74:34:35"
+    ],
+    "on_tick": 22656,
+    "off_tick": 22752,
+    "pitch": 53,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:29:12:13"
+    ],
+    "on_tick": 22656,
+    "off_tick": 23040,
+    "pitch": 70,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:74:36:37"
+    ],
+    "on_tick": 22752,
+    "off_tick": 22848,
+    "pitch": 56,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:119:33:34"
+    ],
+    "on_tick": 22848,
+    "off_tick": 23040,
+    "pitch": 38,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:74:40:41"
+    ],
+    "on_tick": 22848,
+    "off_tick": 22944,
+    "pitch": 58,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:74:44:45"
+    ],
+    "on_tick": 22944,
+    "off_tick": 23040,
+    "pitch": 56,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:119:38:39"
+    ],
+    "on_tick": 23040,
+    "off_tick": 23232,
+    "pitch": 39,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:74:50:51"
+    ],
+    "on_tick": 23040,
+    "off_tick": 23136,
+    "pitch": 55,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:29:17:18"
+    ],
+    "on_tick": 23040,
+    "off_tick": 23424,
+    "pitch": 70,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:74:52:53"
+    ],
+    "on_tick": 23136,
+    "off_tick": 23232,
+    "pitch": 58,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:119:45:46"
+    ],
+    "on_tick": 23232,
+    "off_tick": 23424,
+    "pitch": 39,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:74:56:57"
+    ],
+    "on_tick": 23232,
+    "off_tick": 23328,
+    "pitch": 61,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:74:61:62"
+    ],
+    "on_tick": 23328,
+    "off_tick": 23424,
+    "pitch": 60,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:121:2:3"
+    ],
+    "on_tick": 23424,
+    "off_tick": 23616,
+    "pitch": 44,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:76:2:3"
+    ],
+    "on_tick": 23424,
+    "off_tick": 23520,
+    "pitch": 56,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:31:2:3"
+    ],
+    "on_tick": 23424,
+    "off_tick": 24096,
+    "pitch": 72,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:76:6:7"
+    ],
+    "on_tick": 23520,
+    "off_tick": 23616,
+    "pitch": 60,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:121:9:10"
+    ],
+    "on_tick": 23616,
+    "off_tick": 23808,
+    "pitch": 44,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:76:9:10"
+    ],
+    "on_tick": 23616,
+    "off_tick": 23712,
+    "pitch": 63,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:76:14:15"
+    ],
+    "on_tick": 23712,
+    "off_tick": 23808,
+    "pitch": 68,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:121:16:17"
+    ],
+    "on_tick": 23808,
+    "off_tick": 24000,
+    "pitch": 42,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:76:22:23"
+    ],
+    "on_tick": 23808,
+    "off_tick": 23904,
+    "pitch": 63,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:76:27:28"
+    ],
+    "on_tick": 23904,
+    "off_tick": 24000,
+    "pitch": 70,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:121:23:24"
+    ],
+    "on_tick": 24000,
+    "off_tick": 24192,
+    "pitch": 42,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:76:32:33"
+    ],
+    "on_tick": 24000,
+    "off_tick": 24576,
+    "pitch": 72,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:76:36:37"
+    ],
+    "on_tick": 24096,
+    "off_tick": 24192,
+    "pitch": 70,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:121:30:31"
+    ],
+    "on_tick": 24192,
+    "off_tick": 24384,
+    "pitch": 41,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:76:44:45"
+    ],
+    "on_tick": 24192,
+    "off_tick": 24288,
+    "pitch": 69,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:76:47:48"
+    ],
+    "on_tick": 24288,
+    "off_tick": 24384,
+    "pitch": 63,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:121:35:36"
+    ],
+    "on_tick": 24384,
+    "off_tick": 24576,
+    "pitch": 41,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:76:52:53"
+    ],
+    "on_tick": 24384,
+    "off_tick": 24480,
+    "pitch": 66,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:76:57:58"
+    ],
+    "on_tick": 24480,
+    "off_tick": 24576,
+    "pitch": 57,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:121:40:41"
+    ],
+    "on_tick": 24576,
+    "off_tick": 24768,
+    "pitch": 46,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:76:63:64"
+    ],
+    "on_tick": 24576,
+    "off_tick": 24672,
+    "pitch": 58,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:31:8:9"
+    ],
+    "on_tick": 24576,
+    "off_tick": 24960,
+    "pitch": 73,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:76:67:68"
+    ],
+    "on_tick": 24672,
+    "off_tick": 24768,
+    "pitch": 67,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:121:47:48"
+    ],
+    "on_tick": 24768,
+    "off_tick": 24960,
+    "pitch": 46,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:76:70:71"
+    ],
+    "on_tick": 24768,
+    "off_tick": 24864,
+    "pitch": 56,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:76:74:75"
+    ],
+    "on_tick": 24864,
+    "off_tick": 24960,
+    "pitch": 65,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:123:2:3"
+    ],
+    "on_tick": 24960,
+    "off_tick": 25152,
+    "pitch": 46,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:78:2:3"
+    ],
+    "on_tick": 24960,
+    "off_tick": 25056,
+    "pitch": 55,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:33:2:3"
+    ],
+    "on_tick": 24960,
+    "off_tick": 25344,
+    "pitch": 72,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:78:4:5"
+    ],
+    "on_tick": 25056,
+    "off_tick": 25152,
+    "pitch": 64,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:123:9:10"
+    ],
+    "on_tick": 25152,
+    "off_tick": 25344,
+    "pitch": 44,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:78:7:8"
+    ],
+    "on_tick": 25152,
+    "off_tick": 25248,
+    "pitch": 65,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:78:11:12"
+    ],
+    "on_tick": 25248,
+    "off_tick": 25344,
+    "pitch": 63,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:123:16:17"
+    ],
+    "on_tick": 25344,
+    "off_tick": 25536,
+    "pitch": 44,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:78:18:19"
+    ],
+    "on_tick": 25344,
+    "off_tick": 25440,
+    "pitch": 53,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:33:6:7"
+    ],
+    "on_tick": 25344,
+    "off_tick": 25728,
+    "pitch": 70,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:78:20:21"
+    ],
+    "on_tick": 25440,
+    "off_tick": 25536,
+    "pitch": 61,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:123:23:24"
+    ],
+    "on_tick": 25536,
+    "off_tick": 25728,
+    "pitch": 43,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:78:25:26"
+    ],
+    "on_tick": 25536,
+    "off_tick": 25632,
+    "pitch": 63,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:78:30:31"
+    ],
+    "on_tick": 25632,
+    "off_tick": 25728,
+    "pitch": 61,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:123:28:29"
+    ],
+    "on_tick": 25728,
+    "off_tick": 25920,
+    "pitch": 43,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:78:37:38"
+    ],
+    "on_tick": 25728,
+    "off_tick": 25824,
+    "pitch": 51,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:33:11:12"
+    ],
+    "on_tick": 25728,
+    "off_tick": 26112,
+    "pitch": 68,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:78:41:42"
+    ],
+    "on_tick": 25824,
+    "off_tick": 25920,
+    "pitch": 60,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:123:33:34"
+    ],
+    "on_tick": 25920,
+    "off_tick": 26112,
+    "pitch": 41,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:78:44:45"
+    ],
+    "on_tick": 25920,
+    "off_tick": 26016,
+    "pitch": 61,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:78:49:50"
+    ],
+    "on_tick": 26016,
+    "off_tick": 26112,
+    "pitch": 60,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:123:38:39"
+    ],
+    "on_tick": 26112,
+    "off_tick": 26304,
+    "pitch": 49,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:78:54:55"
+    ],
+    "on_tick": 26112,
+    "off_tick": 26208,
+    "pitch": 58,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:33:16:17"
+    ],
+    "on_tick": 26112,
+    "off_tick": 26304,
+    "pitch": 65,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:78:58:59"
+    ],
+    "on_tick": 26208,
+    "off_tick": 26400,
+    "pitch": 65,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:123:44:45"
+    ],
+    "on_tick": 26304,
+    "off_tick": 26496,
+    "pitch": 49,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:78:61:62"
+    ],
+    "on_tick": 26304,
+    "off_tick": 26400,
+    "pitch": 67,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:78:64:65"
+    ],
+    "on_tick": 26400,
+    "off_tick": 26496,
+    "pitch": 65,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:33:21:22"
+    ],
+    "on_tick": 26400,
+    "off_tick": 26496,
+    "pitch": 67,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:125:2:3"
+    ],
+    "on_tick": 26496,
+    "off_tick": 26688,
+    "pitch": 47,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:80:2:3"
+    ],
+    "on_tick": 26496,
+    "off_tick": 26592,
+    "pitch": 62,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:35:2:3"
+    ],
+    "on_tick": 26496,
+    "off_tick": 26880,
+    "pitch": 68,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:80:6:7"
+    ],
+    "on_tick": 26592,
+    "off_tick": 26688,
+    "pitch": 65,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:125:7:8"
+    ],
+    "on_tick": 26688,
+    "off_tick": 26880,
+    "pitch": 47,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:80:9:10"
+    ],
+    "on_tick": 26688,
+    "off_tick": 26784,
+    "pitch": 67,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:80:12:13"
+    ],
+    "on_tick": 26784,
+    "off_tick": 26880,
+    "pitch": 65,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:125:12:13"
+    ],
+    "on_tick": 26880,
+    "off_tick": 27072,
+    "pitch": 48,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:80:18:19"
+    ],
+    "on_tick": 26880,
+    "off_tick": 26976,
+    "pitch": 64,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:35:8:9"
+    ],
+    "on_tick": 26880,
+    "off_tick": 27264,
+    "pitch": 67,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:80:21:22"
+    ],
+    "on_tick": 26976,
+    "off_tick": 27072,
+    "pitch": 61,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:125:16:17"
+    ],
+    "on_tick": 27072,
+    "off_tick": 27264,
+    "pitch": 48,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:80:26:27"
+    ],
+    "on_tick": 27072,
+    "off_tick": 27168,
+    "pitch": 58,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:80:30:31"
+    ],
+    "on_tick": 27168,
+    "off_tick": 27264,
+    "pitch": 55,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:125:20:21"
+    ],
+    "on_tick": 27264,
+    "off_tick": 27648,
+    "pitch": 41,
+    "channel": 2
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:80:34:35"
+    ],
+    "on_tick": 27264,
+    "off_tick": 27360,
+    "pitch": 57,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:35:12:13"
+    ],
+    "on_tick": 27264,
+    "off_tick": 27648,
+    "pitch": 65,
+    "channel": 0
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:80:36:37"
+    ],
+    "on_tick": 27360,
+    "off_tick": 27456,
+    "pitch": 60,
+    "channel": 1
+  },
+  {
+    "hrefs": [
+      "bwv639_main.ly:80:39:40"
+    ],
+    "on_tick": 27456,
+    "off_tick": 27648,
+    "pitch": 65,
+    "channel": 1
+  }
+]

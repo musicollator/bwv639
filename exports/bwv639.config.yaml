@@ -1,0 +1,19 @@
+workInfo:
+  title: "Choral BWV 639"
+  fullTitle: "Ich ruf zu dir, Herr Jesu Christ"
+  composer: "J.S. Bach"
+  workId: "bwv639"
+  movementName: "Choral"
+  externalURL: "https://fr.wikipedia.org/wiki/Ich_ruf_zu_dir,_Herr_Jesu_Christ_(BWV_639)"
+
+files:
+  svgPath: "bwv639_optimized.svg"
+  notesPath: "bwv639_json_notes.json"
+  audioPath: "bwv639.mp3"
+  
+musicalStructure:
+  totalDurationSeconds: 135.00
+  totalBars: 18
+  lastBarDuration: 0.75
+  visualLeadTimeSeconds: 0
+
