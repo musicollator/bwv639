@@ -13,7 +13,7 @@ files:
   
 musicalStructure:
   totalDurationSeconds: 135.00
-  totalBars: 18
-  lastBarDuration: 0.75
+  totalMeasures: 18
+  lastMeasureDuration: 3/4
   visualLeadTimeSeconds: 0
 
