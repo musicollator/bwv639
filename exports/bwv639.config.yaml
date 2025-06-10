@@ -7,8 +7,6 @@ workInfo:
   externalURL: "https://fr.wikipedia.org/wiki/Ich_ruf_zu_dir,_Herr_Jesu_Christ_(BWV_639)"
 
 files:
-  svgPath: "bwv639_optimized.svg"
-  notesPath: "bwv639_json_notes.json"
   audioPath: "bwv639.mp3"
   
 musicalStructure:
