@@ -10,6 +10,6 @@
   \score {
     \bwv
     \oneLineLayout
-    \staffPerformerToVoiceContextMidi
+    \midiStaffPerformerToVoiceContext
   }
 }
