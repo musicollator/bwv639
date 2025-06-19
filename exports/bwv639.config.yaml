@@ -13,5 +13,5 @@ musicalStructure:
   totalDurationSeconds: 135.00
   totalMeasures: 18
   lastMeasureDuration: 3/4
-  visualLeadTimeSeconds: 0
+  visualLeadTimeSeconds: 0.2
 
